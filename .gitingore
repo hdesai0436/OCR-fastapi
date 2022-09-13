@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 ocr_service/
+include/
+Lib/
+Scripts/
 __pycache__/
 *.py[cod]
 *$py.class
